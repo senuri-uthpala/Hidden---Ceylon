@@ -1,0 +1,5 @@
+# local settings (DB password, admin invite code) - copy config/config.sample.php to config/config.php
+config/config.php
+database/.extra_destinations_done
+.DS_Store
+Thumbs.db
